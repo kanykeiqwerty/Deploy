@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-su=7+a=j3k70lopk4x)igkw2%b2-q6aq!jmc@ac2&kpj^rtiss
 SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'default-secret-key')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
