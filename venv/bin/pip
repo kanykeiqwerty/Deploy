@@ -1,4 +1,4 @@
-#!/home/kanykei/Desktop/projects/VibeHackathon/venv/bin/python3
+#!/home/kanykei/Desktop/projects/deploy/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

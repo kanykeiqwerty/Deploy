@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/kanykei/Desktop/projects/VibeHackathon/venv
+set -gx VIRTUAL_ENV /home/kanykei/Desktop/projects/deploy/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
